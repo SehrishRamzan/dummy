@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Roboto !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #131313 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+input:focus{
+    border: 1px solid #fff !important;
+    background-color: transparent !important;
+}
+.MuiPaper-root.MuiDialog-paper.MuiDialog-paperScrollPaper{
+  max-width:"936px !important"
+}
